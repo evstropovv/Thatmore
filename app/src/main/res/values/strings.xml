@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Which country is bigger ?</string>
+    <string name="title_activity_right_ansers">Correct answers</string>
+    <string name="area_of_country">Which country is bigger, </string>
+    <string name="correct_answers">Correct answers: </string>
+    <string name="exit_game"> Exit game </string>
+    <string name="new_game"> New game </string>
+    <string name="new_record">NEW RECORD ! ! !</string>
+    <string name="of"> of </string>
+    <string name="options"> Options </string>
+    <string name="or"> or </string>
+    <string name="question">Number of questions: </string>
+    <string name="record">Record: </string>
+    <string name="score">Score: </string>
+    <string name="wonderful">Wonderful! </string>
+    <string name="exit_to_menu">To menu</string>
+
+    <string name="sounds">Sounds</string>
+    <string name="question_20">20 question</string>
+    <string name="throw_record">Throw record </string>
+    <string name="save_exit">Save and exit </string>
+
+    <string name="text_size">Text size</string>
+    <string name="ad_mob_id" translatable="false">ca-app-pub-2438142718009032/1427057700</string>
+
+</resources>

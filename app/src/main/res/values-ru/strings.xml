@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Какая страна больше?</string>
+    <string name="title_activity_right_ansers">rightAnswers</string>
+    <string name="area_of_country">Какая из стран больше, </string>
+    <string name="correct_answers">Правильных ответов: </string>
+    <string name="exit_game"> Выход </string>
+    <string name="new_game"> Новая Игра </string>
+    <string name="new_record">НОВЫЙ РЕКОРД ! ! ! </string>
+    <string name="of"> из </string>
+    <string name="options"> Настройки </string>
+    <string name="or"> или </string>
+    <string name="question">Количество вопросов: </string>
+    <string name="record">Рекорд: </string>
+    <string name="score">Счет: </string>
+    <string name="wonderful">Великолепно! </string>
+    <string name="exit_to_menu">Выйти в меню</string>
+
+    <string name="sounds">Звуки</string>
+    <string name="question_20">20 вопросов</string>
+    <string name="throw_record">Сбросить рекорд </string>
+    <string name="save_exit">Сохранить и выйти в главное меню</string>
+
+    <string name="text_size">Размер текста</string>
+</resources>
